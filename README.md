@@ -1,7 +1,8 @@
 Hello,
 
-We are altnotify.com, we create tools and launched our very own token AltCake
+We are altnotify.com, we create tools and launched our very own DAPPCASH.
+Primarily we create Android apps and crypto tools. 
 
-Primarily we create android apps but will make more of an effort to bring our code/repos and offerings over to git.
+A lot of our work is internal however we will be using this not only as a media bank but for open source frameworks by us, tutorials and more!
+htttps://altnotify.com
 
-Thanks
